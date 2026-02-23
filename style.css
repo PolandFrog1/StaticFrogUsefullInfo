@@ -1,0 +1,64 @@
+body{
+    background-image: url("splatoon.gif"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.title{
+    color:rgb(224, 224, 224);
+    font-family: sans-serif, arial;
+}
+.p1{
+    color:rgb(226, 215, 215);
+    font-family: sans-serif, arial;
+}
+.title2{
+    color:rgb(48, 52, 174);
+    font-family: sans-serif, arial;
+}
+.p2{
+    color:rgb(48, 1, 255);
+    font-family: sans-serif, arial;
+}
+a{
+    color:rgb(255, 0, 0);
+    font-family: sans-serif, arial;
+}
+.title3{
+    color:rgb(128, 1, 255);
+    font-family: sans-serif, arial;
+}
+.image{
+    border-radius: 21%;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: rgb(22, 0, 0);
+}
+
+#img1{
+    float: left;
+}
+#p1{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    width: 50%;
+}
+
+#img2{
+    float: left;
+}
+.title4{
+    color:rgb(118, 90, 83);
+    font-family: sans-serif, arial;
+}
+.p3{
+    font-family: sans-serif, arial;
+    color: rgb(205, 205, 205);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 90px;
+    width: 50%;
+}
